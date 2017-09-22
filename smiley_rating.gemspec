@@ -4,7 +4,7 @@ $:.push File.expand_path("../lib", __FILE__)
 Gem::Specification.new do |s|
   s.name        = "smiley_rating"
   s.authors     = ["Ajay Babar"]
-  s.version     = '0.1'
+  s.version     = '0.1.0'
   s.email       = ["ajay.babar@ymail.com"]
   s.homepage    = "https://github.com/babarajay/smiley_rating"
   s.summary     = "Rate according to your mood."
@@ -13,6 +13,5 @@ Gem::Specification.new do |s|
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
-  s.add_dependency "rails", "~> 5.0"
-  s.add_development_dependency "sqlite3"
+  s.add_dependency "rails", "~> 4.2"
 end
