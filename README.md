@@ -9,7 +9,7 @@ A Ruby Gem that extends the functionality of [jQuery Raty] library, and provides
 Add smiley_rating to your Gemfile:
 
 ```ruby
-gem 'smiley_rating', github: 'babarajay/smiley_rating'
+gem 'smiley_rating'
 ```
 
 ### Generate
