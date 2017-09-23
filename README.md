@@ -49,4 +49,4 @@ Now, add a script to generate smiley rating:
   $("#smiley_rating").raty();
 </script>
 ```
-Read this Blog(https://babarajay.blogspot.in/2017/09/integrate-smiley-rating-in-rails_23.html) for more details.
+Read this [https://babarajay.blogspot.in/2017/09/integrate-smiley-rating-in-rails_23.html](https://babarajay.blogspot.in/2017/09/integrate-smiley-rating-in-rails_23.html) for more details.
