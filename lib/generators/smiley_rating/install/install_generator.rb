@@ -2,7 +2,7 @@ module SmileyRating
   module Generators
     class InstallGenerator < Rails::Generators::Base
 
-      source_root File.expand_path('../../../../assets/', __FILE__)
+      source_root File.expand_path('../../../../../assets/', __FILE__)
 
       def add_fonts
         copy_file 'fonts/smiley-face.eot', 'vendor/assets/fonts/smiley-face.eot'
