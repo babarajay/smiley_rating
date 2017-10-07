@@ -1,0 +1,7 @@
+@font-face {
+    font-family: smiley-face;
+    src: font-url("smiley-face.eot") format("embedded-opentype"), font-url("smiley-face.ttf") format("truetype"), font-url("smiley-face.woff") format("woff"), font-url("smiley-face.svg") format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+.rating-box,.rating-box ul li{display:inline-block;vertical-align:top}[class*=" smiley-face-"],[class^=smiley-face-]{font-family:smiley-face!important;speak:none;font-style:normal;font-weight:400;font-size:80px;font-variant:normal;text-transform:none;line-height:1;position:relative;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.smiley-face-very-bad:before{content:"K"}.smiley-face-bad:before{content:"I"}.smiley-face-average:before{content:"F"}.smiley-face-good:before{content:"A"}.smiley-face-very-good:before{content:"V"}.rating-box ul{margin:0;padding:0}.rating-box ul li{-webkit-border-radius:25px;-moz-border-radius:25px;border-radius:25px;margin:0}.selected::after{content:"";background:#ff0;position:absolute;height:56px;width:56px;left:1px;z-index:-1;border-radius:50%;top:5px}
